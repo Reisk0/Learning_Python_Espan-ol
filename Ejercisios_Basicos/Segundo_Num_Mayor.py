@@ -25,3 +25,5 @@ def segundo_numero(lista_temporal):
             segundo_mayor = num
 
     return segundo_mayor
+
+#Debemos recordar que para este ejercisio se debe tomar en cuenta que el numero mayor y el segundo mayor cambia de posicion en razon al valor de cada cantidad.
